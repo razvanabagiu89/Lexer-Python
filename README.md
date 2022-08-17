@@ -6,7 +6,7 @@ https://ocw.cs.pub.ro/ppcarte/doku.php?id=lfa:proiect:etapa1
 
 Implement a Lexer in Python that would parse input given as prenex form, convert it to NFA and then to DFA as a final result.
 
-.
+```bash
 ├── Lexer.py
 ├── Tester.hs
 ├── Tester.py
@@ -14,3 +14,4 @@ Implement a Lexer in Python that would parse input given as prenex form, convert
 ├── runlexer.py
 ├── test.txt
 ├── tests
+```
